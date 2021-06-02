@@ -16,7 +16,7 @@ git config --list
 # 查看历史提交记录
 git log
 
-# 删除文件 吗
+# 删除文件 吗  修改一下
 git rm [文件名]
 代码建议1h h ffff
 「代码建议」
