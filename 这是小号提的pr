@@ -18,3 +18,23 @@ git log
 
 # 删除文件
 git rm [文件名]
+# 查看状态 (未提交,有文件修改...)
+git status
+
+# 添加文件到暂存区
+git add [文件名]
+
+# 提交到本地仓库
+git commit -m '[描述信息]'
+
+# 推送到github
+git push
+
+# 查看git配置信息
+git config --list
+
+# 查看历史提交记录
+git log
+
+# 删除文件
+git rm [文件名]
